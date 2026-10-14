@@ -1,5 +1,5 @@
-# POC #05 - Express Controller & Axios Setup
-Production Grade - Proof of Concept - Express Controller & Axios Setup
+# POC #05 - Express Middleware & Redux Setup
+Production Grade - Proof of Concept - Express Middleware & Redux Setup
 
 Visit Agile Management Board
 - Link: [https://github.com/users/OfficialApurvChatur/projects/11](https://github.com/users/OfficialApurvChatur/projects/11)
@@ -54,6 +54,7 @@ Visit Agile Management Board
       end
 
       subgraph Backend["Backend"]
+        Node["Node"]
       end
     end
 
@@ -70,3 +71,20 @@ Visit Agile Management Board
 #### 02.06. CI/CD Deployment Setup LLD
 
 ## Servers & DNS
+
+### Backend
+- Development
+  - Local: [http://localhost:8000](http://localhost:8000)
+  - Live: []()
+
+- Testing
+  - Local: []()
+  - Live: []()
+
+- Staging
+  - Local: []()
+  - Live: []()
+
+- Production
+  - Local: []()
+  - Live: []()
