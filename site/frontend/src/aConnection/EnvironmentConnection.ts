@@ -2,7 +2,7 @@ class EnvironmentConnection {
   private ENV = "default";
   private MACHINE = "default";
   private PORT = 3000;
-  private APP_NAME = "POC05-ExpressMiddleware&AxiosSetup";
+  private APP_NAME = "POC05-ExpressMiddleware&ReduxSetup";
 
   constructor() {
     this.setEnvironment();
