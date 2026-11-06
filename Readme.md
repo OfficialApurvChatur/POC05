@@ -25,7 +25,7 @@
 
 #### 02.01. Git Branching & PR Strategies Setup LLD
 ```mermaid
-  <!-- sequenceDiagram
+  sequenceDiagram
     actor Developer
     participant feature/*
     participant develop
@@ -41,7 +41,7 @@
     test -->> stage : merge
     stage -->> prod : merge
     prod -->> develop : merge
-    develop --> Developer : pull -->
+    develop --> Developer : pull
 ```
 
 #### 02.02. Project Overview Setup LLD
